@@ -1,0 +1,81 @@
+body {
+    background-color: lightblue;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+  /* Left box styles */
+ .left {
+     background-color: #002364;
+     text-align: center;
+     color: white;
+ }
+ col-sm {
+     margin: 8px;
+ }
+ .contact {
+     text-align: start;
+     padding-left: 10px;
+     
+ }
+ 
+ .interest {
+     text-align: start;
+     padding-left: 10px;
+ }
+ 
+ .proficiency {
+     line-height: 10px;
+     text-align: left;
+     padding-left: 15px;
+ }
+ a {
+   color: white;
+   text-decoration: none;  
+ }
+ 
+ 
+ .skill {
+     margin: 10px;
+     height: 8px;
+ }
+ 
+ .interest {
+     text-align: start;
+ }
+ 
+ 
+ 
+ /* right box styles */
+ .right {
+     background-color: #E6F4F1;
+     padding: 20px;
+ }
+ 
+ .myName {
+     background-color: #002364;
+     text-align: center;
+     color: white;
+ }
+ 
+ div > h1{
+     padding-top: 20px;
+ }
+ 
+ .righthead {
+     text-transform: uppercase;
+     text-decoration: underline;
+     font-size: medium;
+ }
+ 
+ .righthead:hover{
+     color:  #002364;
+ }
+ 
+ li {
+     line-height: 25px;
+ }
+ 
+ h1 {
+     line-height: 8px;
+     font-size: medium;
+ }
